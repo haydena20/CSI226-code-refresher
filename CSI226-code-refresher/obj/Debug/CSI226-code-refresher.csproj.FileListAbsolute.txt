@@ -1,0 +1,10 @@
+C:\Users\andeh\source\repos\CSI226-code-refresher\CSI226-code-refresher\bin\Debug\CSI226-code-refresher.exe.config
+C:\Users\andeh\source\repos\CSI226-code-refresher\CSI226-code-refresher\bin\Debug\CSI226-code-refresher.exe
+C:\Users\andeh\source\repos\CSI226-code-refresher\CSI226-code-refresher\bin\Debug\CSI226-code-refresher.pdb
+C:\Users\andeh\source\repos\CSI226-code-refresher\CSI226-code-refresher\obj\Debug\CSI226-code-refresher.csproj.AssemblyReference.cache
+C:\Users\andeh\source\repos\CSI226-code-refresher\CSI226-code-refresher\obj\Debug\CSI226_code_refresher.Form1.resources
+C:\Users\andeh\source\repos\CSI226-code-refresher\CSI226-code-refresher\obj\Debug\CSI226_code_refresher.Properties.Resources.resources
+C:\Users\andeh\source\repos\CSI226-code-refresher\CSI226-code-refresher\obj\Debug\CSI226-code-refresher.csproj.GenerateResource.cache
+C:\Users\andeh\source\repos\CSI226-code-refresher\CSI226-code-refresher\obj\Debug\CSI226-code-refresher.csproj.CoreCompileInputs.cache
+C:\Users\andeh\source\repos\CSI226-code-refresher\CSI226-code-refresher\obj\Debug\CSI226-code-refresher.exe
+C:\Users\andeh\source\repos\CSI226-code-refresher\CSI226-code-refresher\obj\Debug\CSI226-code-refresher.pdb
